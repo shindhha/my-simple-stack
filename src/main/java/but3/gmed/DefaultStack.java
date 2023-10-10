@@ -2,6 +2,9 @@ package but3.gmed;
 
 import java.util.EmptyStackException;
 
+/*modification pour le TP*/
+/*modification 2 pour le TP*/
+/*modification 3 pour le TP*/
 public class DefaultStack implements SimpleStack {
     @Override
     public boolean isEmpty() {
